@@ -11,7 +11,7 @@
 
 - 🔭⚒️ I’m currently working on [DNN (DotNetNuke)](https://github.com/dnnsoftware/Dnn.Platform)
 
-- 📝 I regularly write articles on [https://hashnode.com/@Rodien](https://hashnode.com/@Rodien)
+- 📝 I'll start written articles on [https://hashnode.com/@Rodien](https://hashnode.com/@Rodien)
 
 - 💬 Ask me about **Azure and DNN**
 
