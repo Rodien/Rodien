@@ -3,18 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodien&label=Profile%20views&color=0e75b6&style=flat" alt="rodien" /> </p>
 
-- 🔭🏪 I’m currently working on modules for [Openstore](https://github.com/openstore-ecommerce/OpenStore)
-
-- 🌱 I’m currently learning **Oqtane, DNN**
-
-- 🔭🚀 I’m currently working on [Oqtane](https://github.com/oqtane/oqtane.framework)
-
-- 🔭⚒️ I’m currently working on [DNN (DotNetNuke)](https://github.com/dnnsoftware/Dnn.Platform)
-
-- 📝 I'll start writting articles on [https://hashnode.com/@Rodien](https://hashnode.com/@Rodien)
-
-- 💬 Ask me about **Azure and DNN**
-
 - 📫 How to reach me **rijstmoes_geuren.0i@icloud.com**
 
 - 📄 Know about my experiences [https://github.com/Rodien](https://github.com/Rodien)
